@@ -1,0 +1,2 @@
+usuario: admin
+pwd: z7B049PsHadQr8aaX7
